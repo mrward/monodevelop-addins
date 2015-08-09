@@ -117,4 +117,41 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.TypeScript_0.6.mpack</Url>
+    <Addin>
+      <Id>TypeScript</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>TypeScript</Name>
+      <Version>0.6</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds TypeScript support. Updated to use TypeScript 1.5.3</Description>
+      <Category>Web Development</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>5.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>5.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>5.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Refactoring</AddinId>
+          <Version>5.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">12554309</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
