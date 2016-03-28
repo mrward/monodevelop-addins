@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Addin>
+    <Url>MonoDevelop.Dnx_0.2.mpack</Url>
+    <Addin>
+      <Id>Dnx</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>DNX</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds DNX and ASP.NET 5 support.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Debugger</AddinId>
+          <Version>6.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Debugger.Soft</AddinId>
+          <Version>6.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>6.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>6.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>DesignerSupport</AddinId>
+          <Version>6.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>6.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">510828</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>
