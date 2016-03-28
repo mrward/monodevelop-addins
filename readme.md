@@ -1,8 +1,12 @@
 # Hosts addins for MonoDevelop and Xamarin Studio
 
-Addin repository url:
+MonoDevelop and Xamarin Studio 5.0 addin repository url:
 
-  http://lastexitcode.com/monodevelop-addins/5.0/main.mrep
+  http://lastexitcode.com/monodevelop-addins/5.0/main.mrep  
+  
+MonoDevelop and Xamarin Studio 6.0 addin repository url:
+
+  http://lastexitcode.com/monodevelop-addins/6.0/main.mrep
 
 # Adding repository to MonoDevelop or Xamarin Studio
 
@@ -10,7 +14,8 @@ Addin repository url:
  * Select the **Gallery** tab.
  * Open the Repository drop down list and select Manage Repositories.
  * Click the Add button.
- * Enter the url: http://lastexitcode.com/monodevelop-addins/5.0/main.mrep
+ * Enter the url for MonoDevelop 5.0: http://lastexitcode.com/monodevelop-addins/5.0/main.mrep
+ * Or enter the url for MonoDevelop 6.0: http://lastexitcode.com/monodevelop-addins/6.0/main.mrep
  * Click OK.
  * Expand **IDE extensions**.
  * Select **NuGet Package Management Extensions**.
