@@ -294,4 +294,33 @@ Please uninstall any older version of the addin and restart the application befo
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.FileNesting-0.1.mpack</Url>
+    <Addin>
+      <Id>FileNesting</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>FileNesting</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright>Mads Kristensen</Copyright>
+      <Url />
+      <Description>Adds File Nesting support.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>6.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>6.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">13767</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
