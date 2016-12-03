@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Addin>
+    <Url>MonoDevelop.FileNesting-0.1.mpack</Url>
+    <Addin>
+      <Id>FileNesting</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>FileNesting</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright>Mads Kristensen</Copyright>
+      <Url />
+      <Description>Adds File Nesting support.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">13766</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>
