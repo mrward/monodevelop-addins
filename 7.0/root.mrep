@@ -29,4 +29,37 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.NuGetPackageExplorer-0.1.mpack</Url>
+    <Addin>
+      <Id>NuGetPackageExplorer</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>NuGet Package Explorer</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright>Matthew Ward</Copyright>
+      <Url />
+      <Description>Open and view NuGet packages (.nupkg)</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>PackageManagement</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">1708881</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
