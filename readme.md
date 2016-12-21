@@ -11,6 +11,10 @@ MonoDevelop and Xamarin Studio 6.0 addin repository url:
 MonoDevelop and Xamarin Studio 6.1 addin repository url:
 
   http://lastexitcode.com/monodevelop-addins/6.1/main.mrep
+  
+MonoDevelop and Xamarin Studio 6.2 addin repository url:
+
+  http://lastexitcode.com/monodevelop-addins/6.2/main.mrep
 
 MonoDevelop 7.0 and Visual Studio for Mac addin repository url:
 
