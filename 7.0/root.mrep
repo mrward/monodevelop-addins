@@ -266,4 +266,24 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.OpenWith_0.1.mpack</Url>
+    <Addin>
+      <Id>OpenWith</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Open With</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author>Matt Ward</Author>
+      <Copyright />
+      <Url />
+      <Description>Provides a way to change the default editor or application used to open files</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">16566</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
