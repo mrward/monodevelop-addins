@@ -28,6 +28,10 @@ MonoDevelop 7.2 and Visual Studio for Mac addin repository url:
 
 http://lastexitcode.com/monodevelop-addins/7.2/main.mrep
 
+MonoDevelop 7.3 and Visual Studio for Mac addin repository url:
+
+http://lastexitcode.com/monodevelop-addins/7.3/main.mrep
+
 # Adding repository to MonoDevelop or Xamarin Studio
 
  * Open the **Add-in Manager** dialog.
