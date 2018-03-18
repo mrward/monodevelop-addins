@@ -32,6 +32,10 @@ MonoDevelop 7.3 and Visual Studio for Mac addin repository url:
 
 http://lastexitcode.com/monodevelop-addins/7.3/main.mrep
 
+MonoDevelop 7.4 and Visual Studio for Mac addin repository url:
+
+http://lastexitcode.com/monodevelop-addins/7.4/main.mrep
+
 # Adding repository to MonoDevelop or Xamarin Studio
 
  * Open the **Add-in Manager** dialog.
@@ -41,7 +45,7 @@ http://lastexitcode.com/monodevelop-addins/7.3/main.mrep
  * Enter the url for the MonoDevelop version - e.g. http://lastexitcode.com/monodevelop-addins/5.0/main.mrep
  * Click OK.
  * Expand **IDE extensions**.
- * Select **NuGet Package Management Extensions**.
+ * Select the addin.
  * Click the **Refresh** button if the addin is not visible.
  * Click **Install...** or **Update** to install the addin.
 
