@@ -444,4 +444,24 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.TemplateCreator_0.3.mpack</Url>
+    <Addin>
+      <Id>TemplateCreator</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Template Creator</Name>
+      <Version>0.3</Version>
+      <BaseVersion />
+      <Author>Matt Ward</Author>
+      <Copyright>MIT</Copyright>
+      <Url>https://github.com/mrward/monodevelop-template-creator-addin</Url>
+      <Description>Create project templates for Visual Studio for Mac</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">230442</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
