@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Addin>
+    <Url>MonoDevelop.PackageManagement.Extensions_0.14.mpack</Url>
+    <Addin>
+      <Id>PackageManagement.Extensions</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>NuGet Package Management Extensions</Name>
+      <Version>0.14</Version>
+      <BaseVersion />
+      <Author>Matt Ward</Author>
+      <Copyright>MIT</Copyright>
+      <Url>https://github.com/mrward/monodevelop-nuget-extensions</Url>
+      <Description>Provides extensions to the NuGet addin. Supports Visual Studio for Mac 7.7 build 1738 and later versions.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">1021240</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.FileNesting_0.1.1.mpack</Url>
+    <Addin>
+      <Id>FileNesting</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>FileNesting</Name>
+      <Version>0.1.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds File Nesting support. Supports Visual Studio for Mac Preview 3.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">14002</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.LanguageServer.Client_0.1.mpack</Url>
+    <Addin>
+      <Id>LanguageServer.Client</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Language Server Client</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Language Server support</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>7.4</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>7.4</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Refactoring</AddinId>
+          <Version>7.4</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>7.4</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">108585</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.NuGetPackageExplorer-0.2.mpack</Url>
+    <Addin>
+      <Id>NuGetPackageExplorer</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>NuGet Package Explorer</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright>Matthew Ward</Copyright>
+      <Url />
+      <Description>Open and view NuGet packages (.nupkg)</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>PackageManagement</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>DotNetCore</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">1711273</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.OpenWith_0.1.mpack</Url>
+    <Addin>
+      <Id>OpenWith</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Open With</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author>Matt Ward</Author>
+      <Copyright />
+      <Url />
+      <Description>Provides a way to change the default editor or application used to open files</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">16566</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.Paket_0.5.mpack</Url>
+    <Addin>
+      <Id>Paket</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Paket</Name>
+      <Version>0.5</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds Paket support.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>DesignerSupport</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">3933574</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.PowerShell_0.3.mpack</Url>
+    <Addin>
+      <Id>PowerShell</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>PowerShell</Name>
+      <Version>0.3</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds PowerShell editing support</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Debugger</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Refactoring</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">644190</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.TemplateCreator_0.4.mpack</Url>
+    <Addin>
+      <Id>TemplateCreator</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Template Creator</Name>
+      <Version>0.4</Version>
+      <BaseVersion />
+      <Author>Matt Ward</Author>
+      <Copyright>MIT</Copyright>
+      <Url>https://github.com/mrward/monodevelop-template-creator-addin</Url>
+      <Description>Create project templates for Visual Studio for Mac</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">230479</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>
