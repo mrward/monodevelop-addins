@@ -261,4 +261,41 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.NuGetPackageExplorer_0.3.mpack</Url>
+    <Addin>
+      <Id>NuGetPackageExplorer</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>NuGet Package Explorer</Name>
+      <Version>0.3</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Open and view NuGet packages (.nupkg). Adds support for viewing SemVer 2.0 NuGet packages.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>PackageManagement</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>DotNetCore</AddinId>
+          <Version>7.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">1380497</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
