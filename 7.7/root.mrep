@@ -298,4 +298,53 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.TaskRunner_0.1.mpack</Url>
+    <Addin>
+      <Id>TaskRunner</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Task Runner Explorer</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds a Task Runner Explorer</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>7.5</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>7.5</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">37975</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.TaskRunnersBundle_0.1.mpack</Url>
+    <Addin>
+      <Id>TaskRunnersBundle</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Task Runners Bundle</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author>Matt Ward</Author>
+      <Copyright>MIT</Copyright>
+      <Url>https://github.com/mrward/monodevelop-task-runner-addin</Url>
+      <Description>Bundled Task Runners: Cake, Grunt, Gulp, NPM and TypeScript</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">66126</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
