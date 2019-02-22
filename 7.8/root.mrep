@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Addin>
+    <Url>MonoDevelop.PackageManagement.Extensions_0.16.mpack</Url>
+    <Addin>
+      <Id>PackageManagement.Extensions</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>NuGet Package Management Extensions</Name>
+      <Version>0.16</Version>
+      <BaseVersion />
+      <Author>Matt Ward</Author>
+      <Copyright>MIT</Copyright>
+      <Url>https://github.com/mrward/monodevelop-nuget-extensions</Url>
+      <Description>Provides extensions to the NuGet addin. Supports Visual Studio for Mac 7.8 build 1624 and later versions.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">1026572</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>
