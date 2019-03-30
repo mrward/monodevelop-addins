@@ -57,4 +57,33 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.FileNesting_0.1.1.mpack</Url>
+    <Addin>
+      <Id>FileNesting</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>FileNesting</Name>
+      <Version>0.1.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds File Nesting support.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">13864</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
