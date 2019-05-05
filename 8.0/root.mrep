@@ -365,4 +365,24 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.PackageManagement.Extensions_0.18.mpack</Url>
+    <Addin>
+      <Id>PackageManagement.Extensions</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>NuGet Package Management Extensions</Name>
+      <Version>0.18</Version>
+      <BaseVersion />
+      <Author>Matt Ward</Author>
+      <Copyright>MIT</Copyright>
+      <Url>https://github.com/mrward/monodevelop-nuget-extensions</Url>
+      <Description>Provides extensions to the NuGet addin.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">20026057</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
