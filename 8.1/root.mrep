@@ -37,4 +37,33 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.LogMonitor_0.1.1.mpack</Url>
+    <Addin>
+      <Id>LogMonitor</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Log Monitor</Name>
+      <Version>0.1.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Monitors the IDE log for errors</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">7037</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
