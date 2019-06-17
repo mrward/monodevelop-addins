@@ -86,4 +86,33 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.TaskRunner_0.1.2.mpack</Url>
+    <Addin>
+      <Id>TaskRunner</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Task Runner Explorer</Name>
+      <Version>0.1.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds a Task Runner Explorer</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">38019</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
