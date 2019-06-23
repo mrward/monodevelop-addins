@@ -135,4 +135,33 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.RunCustomTool_0.2.mpack</Url>
+    <Addin>
+      <Id>RunCustomTool</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Run Custom Tool</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds a way to run custom tools for the project</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">7635</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
