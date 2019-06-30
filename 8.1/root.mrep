@@ -230,4 +230,41 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.LanguageServer.Client_0.2.mpack</Url>
+    <Addin>
+      <Id>LanguageServer.Client</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Language Server Client</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Language Server support</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Refactoring</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">415340</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
