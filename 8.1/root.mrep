@@ -296,4 +296,45 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.PowerShell_0.4.mpack</Url>
+    <Addin>
+      <Id>PowerShell</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>PowerShell</Name>
+      <Version>0.4</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds PowerShell editing support</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Debugger</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Refactoring</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">644680</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
