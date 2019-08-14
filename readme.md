@@ -1,5 +1,13 @@
 # Hosts addins for MonoDevelop and Visual Studio for Mac
 
+- MonoDevelop 8.3 and Visual Studio for Mac addin repository url:
+
+  - https://lastexitcode.com/monodevelop-addins/8.3/main.mrep
+
+- MonoDevelop 8.1 and Visual Studio for Mac addin repository url:
+
+  - https://lastexitcode.com/monodevelop-addins/8.1/main.mrep
+
 - MonoDevelop 8.0 and Visual Studio for Mac addin repository url:
 
   - https://lastexitcode.com/monodevelop-addins/8.0/main.mrep
