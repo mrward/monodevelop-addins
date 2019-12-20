@@ -502,4 +502,33 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.ProjectSystemTools_0.2.mpack</Url>
+    <Addin>
+      <Id>ProjectSystemTools</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Project System Tools</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Tools for working the project system</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">60556</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
