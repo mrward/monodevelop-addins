@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Addin>
+    <Url>MonoDevelop.ProjectSystemTools_0.4.mpack</Url>
+    <Addin>
+      <Id>ProjectSystemTools</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Project System Tools</Name>
+      <Version>0.4</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Tools for working the project system</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.5</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.5</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">63043</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>
