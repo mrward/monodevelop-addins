@@ -62,4 +62,350 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.FileServiceEvents_0.2.mpack</Url>
+    <Addin>
+      <Id>FileServiceEvents</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>FileService Events</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Monitors FileService events</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">4274</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.LanguageServer.Client_0.2.mpack</Url>
+    <Addin>
+      <Id>LanguageServer.Client</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Language Server Client</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Language Server support</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Refactoring</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">415340</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.LibraryManager_0.1.mpack</Url>
+    <Addin>
+      <Id>LibraryManager</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Library Manager</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Microsoft Library Manager. Install and consume 3rd-party client-side libraries. https://github.com/aspnet/LibraryManager</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">202583</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.LogMonitor_0.2.mpack</Url>
+    <Addin>
+      <Id>LogMonitor</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Log Monitor</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Monitors the IDE log for errors</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">7226</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.NuGetPackageExplorer_0.5.mpack</Url>
+    <Addin>
+      <Id>NuGetPackageExplorer</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>NuGet Package Explorer</Name>
+      <Version>0.5</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Open and view NuGet packages (.nupkg).</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>PackageManagement</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>DotNetCore</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">1455293</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.Paket_0.6.mpack</Url>
+    <Addin>
+      <Id>Paket</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Paket</Name>
+      <Version>0.6</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds Paket support.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>DesignerSupport</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">3935002</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.PowerShell_0.4.mpack</Url>
+    <Addin>
+      <Id>PowerShell</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>PowerShell</Name>
+      <Version>0.4</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds PowerShell editing support</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Debugger</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Refactoring</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">644680</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.ProjectSystemTools_0.3.mpack</Url>
+    <Addin>
+      <Id>ProjectSystemTools</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Project System Tools</Name>
+      <Version>0.3</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Tools for working the project system</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">60969</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.RunCustomTool_0.2.mpack</Url>
+    <Addin>
+      <Id>RunCustomTool</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Run Custom Tool</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds a way to run custom tools for the project</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">7635</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.TaskRunner_0.1.2.mpack</Url>
+    <Addin>
+      <Id>TaskRunner</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Task Runner Explorer</Name>
+      <Version>0.1.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Adds a Task Runner Explorer</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">38019</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.TemplateCreator_0.5.mpack</Url>
+    <Addin>
+      <Id>TemplateCreator</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Template Creator</Name>
+      <Version>0.5</Version>
+      <BaseVersion />
+      <Author>Matt Ward</Author>
+      <Copyright>MIT</Copyright>
+      <Url>https://github.com/mrward/monodevelop-template-creator-addin</Url>
+      <Description>Create project templates for Visual Studio for Mac</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">196161</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
