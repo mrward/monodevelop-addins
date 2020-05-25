@@ -1,67 +1,22 @@
 # Hosts addins for MonoDevelop and Visual Studio for Mac
 
-- MonoDevelop 8.6 and Visual Studio for Mac addin repository url:
+Pick the url that corresponds to the version you are running:
 
   - https://lastexitcode.com/monodevelop-addins/8.6/main.mrep
-
-- MonoDevelop 8.5 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/8.5/main.mrep
-
-- MonoDevelop 8.3 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/8.3/main.mrep
-
-- MonoDevelop 8.1 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/8.1/main.mrep
-
-- MonoDevelop 8.0 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/8.0/main.mrep
-
-- MonoDevelop 7.8 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/7.8/main.mrep
-
-- MonoDevelop 7.7 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/7.7/main.mrep
-  
-- MonoDevelop 7.4 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/7.4/main.mrep
-
-- MonoDevelop 7.3 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/7.3/main.mrep
-
-- MonoDevelop 7.2 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/7.2/main.mrep
-
-- MonoDevelop 7.1 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/7.1/main.mrep
-  
-- MonoDevelop 7.0 and Visual Studio for Mac addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/7.0/main.mrep
-
-- MonoDevelop and Xamarin Studio 6.2 addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/6.2/main.mrep
-
-- MonoDevelop and Xamarin Studio 6.1 addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/6.1/main.mrep
-
-- MonoDevelop and Xamarin Studio 6.0 addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/6.0/main.mrep
-
-- MonoDevelop and Xamarin Studio 5.0 addin repository url:
-
   - https://lastexitcode.com/monodevelop-addins/5.0/main.mrep
 
 # Adding repository to MonoDevelop or Xamarin Studio
