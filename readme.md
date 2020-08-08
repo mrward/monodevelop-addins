@@ -2,6 +2,7 @@
 
 Pick the url that corresponds to the version you are running:
 
+  - https://lastexitcode.com/monodevelop-addins/8.7/main.mrep
   - https://lastexitcode.com/monodevelop-addins/8.6/main.mrep
   - https://lastexitcode.com/monodevelop-addins/8.5/main.mrep
   - https://lastexitcode.com/monodevelop-addins/8.3/main.mrep
