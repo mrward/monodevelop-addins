@@ -411,4 +411,37 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.FileWatcherFilter_0.2.mpack</Url>
+    <Addin>
+      <Id>FileWatcherFilter</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>File Watcher Filter</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description />
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>8.9.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>8.9.1</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>TextEditor</AddinId>
+          <Version>8.9.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">6669</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
