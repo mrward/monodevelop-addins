@@ -215,4 +215,33 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.FileServiceEvents_0.4.mpack</Url>
+    <Addin>
+      <Id>FileServiceEvents</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>FileService Events</Name>
+      <Version>0.4</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Monitors FileService events</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">4519</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
