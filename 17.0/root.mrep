@@ -335,4 +335,33 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.ProjectSystemTools_0.9.mpack</Url>
+    <Addin>
+      <Id>ProjectSystemTools</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Project System Tools</Name>
+      <Version>0.9</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Tools for working the project system</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">65434</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
