@@ -434,4 +434,37 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>Microsoft.VisualStudioMac.DotNetSelector_0.1.mpack</Url>
+    <Addin>
+      <Id>DotNetSelector</Id>
+      <Namespace>Microsoft.VisualStudioMac</Namespace>
+      <Name>.NET Selector</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Switch between dotnet installations</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Core</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Ide</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.DotNetCore</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">9287</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
