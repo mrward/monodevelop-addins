@@ -467,4 +467,41 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.CSharpInteractive_0.2.mpack</Url>
+    <Addin>
+      <Id>CSharpInteractive</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>CSharp Interactive</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description />
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Debugger</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>TextEditor</AddinId>
+          <Version>17.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">464753</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
