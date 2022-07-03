@@ -394,4 +394,41 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.NuGetPackageExplorer_0.11.mpack</Url>
+    <Addin>
+      <Id>NuGetPackageExplorer</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>NuGet Package Explorer</Name>
+      <Version>0.11</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Open and view NuGet packages (.nupkg).</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>17.3</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>17.3</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>PackageManagement</AddinId>
+          <Version>17.3</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>DotNetCore</AddinId>
+          <Version>17.3</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">1486463</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
