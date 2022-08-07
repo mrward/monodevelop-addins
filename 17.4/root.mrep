@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Addin>
+    <Url>MonoDevelop.CSharpInteractive_0.4.mpack</Url>
+    <Addin>
+      <Id>CSharpInteractive</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>CSharp Interactive</Name>
+      <Version>0.4</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description />
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>17.4</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>17.4</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Debugger</AddinId>
+          <Version>17.4</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>TextEditor</AddinId>
+          <Version>17.4</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">465024</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>
