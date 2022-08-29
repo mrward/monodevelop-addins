@@ -57,4 +57,41 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.DotNetCore.Extensions.0.5.mpack</Url>
+    <Addin>
+      <Id>DotNetCore.Extensions</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>.NET Core Extensions</Name>
+      <Version>0.5</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Provides extensions to the .NET Core support in Visual Studio for Mac. Supports installing and uninstalling SDKs and runtimes.</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>17.4</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>17.4</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>DotNetCore</AddinId>
+          <Version>17.4</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Xamarin.Ide</AddinId>
+          <Version>17.4</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">280525</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
