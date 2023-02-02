@@ -115,4 +115,37 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.FeatureSwitch.0.8.mpack</Url>
+    <Addin>
+      <Id>FeatureSwitch</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Feature Switch</Name>
+      <Version>0.8</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Allows features to be enabled/disabled in the IDE</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>17.5</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>17.5</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Xamarin.Ide</AddinId>
+          <Version>17.5</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">11888</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
