@@ -300,4 +300,33 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>MonoDevelop.LibraryManager.0.4.mpack</Url>
+    <Addin>
+      <Id>LibraryManager</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>Library Manager</Name>
+      <Version>0.4</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Microsoft Library Manager. Install and consume 3rd-party client-side libraries. https://github.com/aspnet/LibraryManager</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>17.5</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>17.5</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">242568</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
