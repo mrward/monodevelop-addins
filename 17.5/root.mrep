@@ -329,4 +329,62 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>Microsoft.VisualStudioMac.ExtensionCompatibilityChecker.0.1.mpack</Url>
+    <Addin>
+      <Id>ExtensionCompatibilityChecker</Id>
+      <Namespace>Microsoft.VisualStudioMac</Namespace>
+      <Name>Extension Compatibility Checker</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Checks binary compatibility of extensions</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Core</AddinId>
+          <Version>17.5</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Ide</AddinId>
+          <Version>17.5</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">227653</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>Microsoft.VisualStudioMac.ExtensionCompatibilityChecker.0.2.mpack</Url>
+    <Addin>
+      <Id>ExtensionCompatibilityChecker</Id>
+      <Namespace>Microsoft.VisualStudioMac</Namespace>
+      <Name>Extension Compatibility Checker</Name>
+      <Version>0.2</Version>
+      <BaseVersion />
+      <Author />
+      <Copyright />
+      <Url />
+      <Description>Checks binary compatibility of extensions</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Core</AddinId>
+          <Version>17.5</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Ide</AddinId>
+          <Version>17.5</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">231398</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
